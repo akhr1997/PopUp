@@ -1,0 +1,11 @@
+body{
+    box-sizing: border-box;
+}
+
+#popup-box{
+    display: none;
+}
+
+#popup-box.active{
+    display: block;
+}
